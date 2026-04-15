@@ -20,6 +20,11 @@ Data sourced from OpenStreetMap (availability may vary).
 
 **Preview**
 
+![Zoom_Map](Zoom_Map.png)
+
+![Full map on display](Full map.png)  
+
+![School&Hospitals](Schools&Hospitals.png)
 
 
 
